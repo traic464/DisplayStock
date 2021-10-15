@@ -150,5 +150,3 @@ class TestFinnomena {
 
 
 exports.TestFinnomena = TestFinnomena;
-
-
